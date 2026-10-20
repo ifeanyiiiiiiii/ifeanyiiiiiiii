@@ -22,4 +22,4 @@ Frontend & mobile engineer in Lagos, Nigeria. I build fintech products with **Re
 
 ### Currently building
 
-🚧 An open-source payments admin dashboard: tables, analytics, roles and correct money handling, fully tested.
+🚧 [**PayDesk Admin**](https://github.com/ifeanyiiiiiiii/paydesk-admin) ([live](https://paydesk-admin-omega.vercel.app)): an open-source payments admin dashboard: tables, analytics, roles and correct money handling, fully tested.
