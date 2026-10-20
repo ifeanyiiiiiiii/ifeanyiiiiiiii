@@ -12,7 +12,6 @@ Frontend & mobile engineer in Lagos, Nigeria. I build fintech products with **Re
 |---|---|---|
 | [BiteTrail](https://bitetrail.edatsu.com) | Community app to log and review local food spots, with a PWA and an Expo mobile app | Next.js, React Native, Expo |
 | [Habit Tracker](https://github.com/ifeanyiiiiiiii/habit-tracker) | Full-stack mobile habit app with a custom REST API | React Native, Expo Router, Zustand, Laravel, Docker |
-| [AI Savings Dashboard](https://github.com/ifeanyiiiiiiii/AI-savings-dashboard) | Employee savings dashboard prototype built with AI-assisted workflows | Next.js, TypeScript, Tailwind |
 | [Portfolio](https://github.com/ifeanyiiiiiiii/emmanuel-mpamugo) | My personal site | Next.js, TypeScript, Tailwind |
 
 ### Tech I use
