@@ -2,7 +2,7 @@
 
 Frontend & mobile engineer in Lagos, Nigeria. I build fintech products with **React, Next.js, TypeScript and React Native**: payment admin dashboards, investment portals and loan flows wired end-to-end to live APIs.
 
-- 💼 Frontend Developer at Princeps Credit Systems (fintech), since March 2025
+- 💼 Frontend Developer at Princeps Credit Systems Limited (fintech), since March 2025
 - 🌍 Open to frontend and mobile engineering roles
 - 🔗 [Portfolio](https://emmanuel-mpamugo.vercel.app) · [LinkedIn](https://www.linkedin.com/in/emmanuel-mpamugo/)
 
